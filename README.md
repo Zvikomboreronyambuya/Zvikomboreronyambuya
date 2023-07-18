@@ -1,4 +1,4 @@
- ## Hi there i am Zvikomboreronyambuya 👋
+ ## Hi there i am Zvikomborero Owen Nyambuya 👋
 
 - 💻 I’m interested in Software Engineering.
 - 😁 I’m currently learning Introduction to C.
