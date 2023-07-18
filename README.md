@@ -1,4 +1,4 @@
- ## Hi there i am [Zvikomboreronyambuya](https://www.linkedin.com/in/zvikomborero-owen-nyambuya-28894617a/) 👋
+ ## Hi there i am Zvikomboreronyambuya 👋
 
 - 💻 I’m interested in Software Engineering.
 - 😁 I’m currently learning Introduction to C.
